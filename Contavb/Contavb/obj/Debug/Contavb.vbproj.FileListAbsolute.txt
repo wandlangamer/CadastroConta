@@ -1,0 +1,13 @@
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\bin\Debug\Contavb.exe.config
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\bin\Debug\Contavb.exe
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\bin\Debug\Contavb.pdb
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\bin\Debug\Contavb.xml
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\obj\Debug\Contavb.vbproj.AssemblyReference.cache
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\obj\Debug\Contavb.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\obj\Debug\Contavb.Form1.resources
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\obj\Debug\Contavb.Resources.resources
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\obj\Debug\Contavb.vbproj.GenerateResource.cache
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\obj\Debug\Contavb.vbproj.CoreCompileInputs.cache
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\obj\Debug\Contavb.exe
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\obj\Debug\Contavb.xml
+C:\Users\Wand\Desktop\Tec Programacao\Contavb\Contavb\obj\Debug\Contavb.pdb
